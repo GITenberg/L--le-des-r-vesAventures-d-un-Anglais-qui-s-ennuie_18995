@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7515
     wikipedia: http://en.wikipedia.org/wiki/Louis_Ulbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18995#L--le-des-r-vesAventures-d-un-Anglais-qui-s-ennuie
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2006-08-06'
 gutenberg_type: Text
