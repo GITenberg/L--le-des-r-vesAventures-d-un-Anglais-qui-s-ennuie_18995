@@ -1,0 +1,30 @@
+_repo: L--le-des-r-vesAventures-d-un-Anglais-qui-s-ennuie_18995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ulbach, Louis
+    alias: Ferragus
+    birthdate: 1822
+    deathdate: 1889
+    gutenberg_agent_id: '7515'
+    url: http://www.gutenberg.org/2009/agents/7515
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Ulbach
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2006-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18995'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+title: 'L''île des rêves: Aventures d''un Anglais qui s''ennuie'
+url: http://www.gutenberg.org/ebooks/18995
